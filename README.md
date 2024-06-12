@@ -1,5 +1,7 @@
 # Hackintosh, Asus Z490 ProArt CREATOR 10G, i7 10700K, RX 5700 XT and Thunderbolt
 
+![Hackintool - System](https://github.com/luchina-gabriel/EFI-ASUS-Z490-ProArt-CREATOR-10G-i7-10700K-RX-5700-XT-PUBLIC/assets/23700365/1f82b8ff-e832-48fe-aeaf-2d39bec6f50d)
+
 # Basic Information
 
 **Latest working macOS**: macOS Sonoma (14.5)
